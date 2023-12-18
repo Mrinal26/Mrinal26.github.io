@@ -20,7 +20,7 @@ export const MyNavbar = () => {
 
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1gzOCePGr60mowhTkhEPHq8mKKmuR0DXF/view?usp=drive_link";
+      "https://drive.google.com/file/d/1GT_S42XE6axK8DBCPhJ4xYdHA0IbAp5U/view?usp=sharing";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
@@ -33,7 +33,7 @@ export const MyNavbar = () => {
           const url = window.URL.createObjectURL(blob);
           const link = document.createElement("a");
           link.href = url;
-          link.download = "MRINAL KUMAR (1).pdf"; // Specify the desired file name here
+          link.download = "Mrinal-kumar-Resume.pdf"; // Specify the desired file name here
           link.style.display = "none";
 
           document.body.appendChild(link);
