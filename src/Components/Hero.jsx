@@ -20,7 +20,7 @@ const TypingComponent = () => {
 export const Hero = () => {
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1GT_S42XE6axK8DBCPhJ4xYdHA0IbAp5U/view?usp=sharing";
+      "https://drive.google.com/file/d/1gzOCePGr60mowhTkhEPHq8mKKmuR0DXF/view?usp=drive_link";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
