@@ -4,7 +4,7 @@ import photo from "../Components/pc mrinal.jpg";
 export const About = () => {
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1bfkHYzVePdkYFgs5rDZm9e9lfvZqhU36/view";
+      "https://drive.google.com/file/d/1ajtK8PAK0wrvZDyVz9pZzoeSAKHqTwH3/view?usp=sharing";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
