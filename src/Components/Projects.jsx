@@ -144,7 +144,7 @@ export const Projects = () => {
               </div>
             </div>
           </ParallaxLayer>
-          <ParallaxLayer offset={2} speed={2} factor={0.5}>
+          {/* <ParallaxLayer offset={1.8} speed={0.7} factor={0.5}>
             <div className="cards project-card p-4">
               <div className="row d-flex align-items-center g-5">
                 <div className="col-lg-4 col-md-12">
@@ -189,7 +189,7 @@ export const Projects = () => {
                 </div>
               </div>
             </div>
-          </ParallaxLayer>
+          </ParallaxLayer> */}
         </Parallax>
       </div>
     </div>

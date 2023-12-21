@@ -20,7 +20,7 @@ export const MyNavbar = () => {
 
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1GT_S42XE6axK8DBCPhJ4xYdHA0IbAp5U/view?usp=sharing";
+      "https://drive.google.com/file/d/1bfkHYzVePdkYFgs5rDZm9e9lfvZqhU36/view";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
@@ -144,12 +144,13 @@ export const MyNavbar = () => {
                         spy={true}
                         smooth={true}
                         offset={-110}
+                        
                         duration={500}>
                         <p className="mbrt-slot-hover">
                           <span className="slot-mask">
                             <span
                               className="slot-content brand"
-                              hidden-slot-text="ADNAN BAIG"
+                              hidden-slot-text="CRAZY DEVELOPER"
                             >
                               I AM MRINAL
                             </span>
