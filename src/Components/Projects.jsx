@@ -1,7 +1,7 @@
 import project from "../Components/project.png";
 import carver from "../Components/carver.png";
 import jiomart from "../Components/jiomart.png";
-import SAW_home_pc from "../Components/SAW_home_pc.png"
+import newp from "../Components/newp.png"
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import { Marqee } from "./Marqee";
 
@@ -144,7 +144,7 @@ export const Projects = () => {
               </div>
             </div>
           </ParallaxLayer>
-          {/* <ParallaxLayer offset={1.8} speed={0.7} factor={0.5}>
+          <ParallaxLayer offset={2} speed={2} factor={0.5}>
             <div className="cards project-card p-4">
               <div className="row d-flex align-items-center g-5">
                 <div className="col-lg-4 col-md-12">
@@ -154,9 +154,9 @@ export const Projects = () => {
                   <p className="b-text project-description">
                     A platform is designed with user convenience in mind,
                     ensuring a seamless shopping experience for customers
-                    looking to upgrade their tech game. Built using cutting-edge
+                    {/* looking to upgrade their tech game. Built using cutting-edge
                     technologies such as HTML, CSS, and JavaScript, SAW-
-                    Electronics is your ultimate destination for high-quality electronics.
+                    Electronics is your ultimate destination for high-quality electronics. */}
                   </p>
                   <h2>Tech Stack</h2>
                   <div className="d-flex flex-wrap gap-2">
@@ -171,7 +171,7 @@ export const Projects = () => {
                   </div>
                 </div>
                 <div className="col-lg-8 col-md-12">
-                  <img src={SAW_home_pc} className="img-fluid" alt="" />
+                  <img src={newp} className="img-fluid" alt="" />
                   <div className="profile-links mt-5 d-flex gap-3 justify-content-center">
                     <a
                       className="project-github-link"
@@ -189,7 +189,7 @@ export const Projects = () => {
                 </div>
               </div>
             </div>
-          </ParallaxLayer> */}
+          </ParallaxLayer>
         </Parallax>
       </div>
     </div>
