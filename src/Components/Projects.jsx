@@ -149,7 +149,7 @@ export const Projects = () => {
               <div className="row d-flex align-items-center g-5">
                 <div className="col-lg-4 col-md-12">
                   <h1 className="section-heading project-title">
-                    Electronics Website
+                    Electronics
                   </h1>
                   <p className="b-text project-description">
                     A platform is designed with user convenience in mind,
