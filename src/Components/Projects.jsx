@@ -154,9 +154,7 @@ export const Projects = () => {
                   <p className="b-text project-description">
                     A platform is designed with user convenience in mind,
                     ensuring a seamless shopping experience for customers
-                    looking to upgrade their tech game. Built using cutting-edge
-                    technologies such as HTML, CSS, and JavaScript, SAW-
-                    Electronics is your ultimate destination for high-quality electronics.
+                    looking to upgrade their tech game. 
                   </p>
                   <h2>Tech Stack</h2>
                   <div className="d-flex flex-wrap gap-2">
