@@ -288,7 +288,7 @@ export const MyNavbar = () => {
                           <span className="slot-mask">
                             <span
                               className="slot-content brand"
-                              hidden-slot-text="I AM ADNAN BAIG"
+                              hidden-slot-text="I AM MRINAL KUMAR"
                             >
                               I AM Mrinal Kumar
                             </span>
