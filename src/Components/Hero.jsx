@@ -2,7 +2,7 @@ import React, {useState, useEffect } from 'react';
 
 const TypingComponent = () => {
   const [textIndex, setTextIndex] = useState(0);
-  const textArray = ["Fresher", "Full-Stack Developer", "Frontend Developer", "Java Programmer", "Python Enthusiast"];
+  const textArray = ["Full-Stack Developer", "Frontend Developer", "Java Programmer", "Python Enthusiast","Fresher"];
   const [displayText, setDisplayText] = useState('');
 
   useEffect(() => {
