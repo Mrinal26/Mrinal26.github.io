@@ -18,24 +18,31 @@ export const Skills = () => {
                   <div className="html">
                     <li className="skills-card-name">HTML <i className="fab fa-html5 fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="css">
                     <li className="skills-card-name">CSS <i className="fab fa-css3-alt fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="js">
                     <li className="skills-card-name">Javascript <i className="fab fa-js fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="react">
                     <li className="skills-card-name">ReactJs <i className="fab fa-react fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="bootstrap">
                     <li className="skills-card-name">Bootstrap <i className="fab fa-bootstrap fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="angular">
                     <li className="skills-card-name">Figma <i className="fab fa-figma fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="redux">
                     <li className="skills-card-name">Redux <i className="fab fa-react fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="ts">
                     <li className="skills-card-name">TypeScript <i className="fab fa-react fa-xl"></i></li>
                   </div>
@@ -52,12 +59,15 @@ export const Skills = () => {
                   <div className="node">
                     <li className="skills-card-name">NodeJs <i className="fab fa-node-js fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="express">
                     <li className="skills-card-name">ExpressJs <i className="fab fa-node-js fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="mongo">
                     <li className="skills-card-name">MongoDB <i className="fas fa-database fa-xl"></i></li>
                   </div>
+                  <br />
                   <div className="mongoose">
                     <li className="skills-card-name">Mongoose <i className="fas fa-database fa-xl"></i></li>
                   </div>
@@ -80,21 +90,27 @@ export const Skills = () => {
                   <div>
                     <li className="skills-card-name">Communication <i className="fas fa-comments fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Attention to Detail <i className="fas fa-check fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Punctuality <i className="far fa-clock fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Determination <i className="fas fa-bolt fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Linux <i className="fab fa-linux fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Virtual Machines <i className="fas fa-hdd fa-xl"></i></li>
                   </div>
+                  <br />
                   <div>
                     <li className="skills-card-name">Netlify <i className="fas fa-cloud-upload-alt fa-xl"></i></li>
                   </div>
