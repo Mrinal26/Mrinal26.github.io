@@ -20,7 +20,7 @@ const TypingComponent = () => {
 export const Hero = () => {
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1-LvOVetbfTzHCJPeKkneVPyQjVllphw5/view?usp=sharing";
+      "https://drive.google.com/file/d/1gfz4dGtyHqdqEpM19rLNTQwz7MpQoxmu/view?usp=sharing";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
@@ -35,7 +35,7 @@ export const Hero = () => {
           const url = window.URL.createObjectURL(blob);
           const link = document.createElement("a");
           link.href = url;
-          link.download = "Mrinal26.pdf"; // Specify the desired file name here
+          link.download = "Mrinal-kumar-resume.pdf"; // Specify the desired file name here
           link.style.display = "none";
 
           document.body.appendChild(link);

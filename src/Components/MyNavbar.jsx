@@ -20,7 +20,7 @@ export const MyNavbar = () => {
 
   const onButtonClick = () => {
     const pdfUrl =
-      "https://drive.google.com/file/d/1-LvOVetbfTzHCJPeKkneVPyQjVllphw5/view?usp=sharing";
+      "https://drive.google.com/file/d/1gfz4dGtyHqdqEpM19rLNTQwz7MpQoxmu/view?usp=sharing";
 
     const openPDFInNewTab = () => {
       window.open(pdfUrl);
